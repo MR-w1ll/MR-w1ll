@@ -1,7 +1,7 @@
 <h1 align="center">🖤 Bem-vindo ao meu GitHub</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Olá%2C+eu+sou+o+William!;Desenvolvedor+Fullstack+%7C+Pythonista;Apaixonado+por+tecnologia+e+automação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+William!;Desenvolvedor+Fullstack+%7C+Pythonista;Apaixonado+por+tecnologia+e+automação" alt="Typing SVG" />
 </p>
 
 <p align="center">
