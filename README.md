@@ -33,8 +33,8 @@
 </p>
 
 ---
-<br>
 
+<p>
 ### 🧠 Sobre mim
 ```python
 class MRw1ll:
@@ -46,3 +46,4 @@ class MRw1ll:
 
     def status(self):
         return "Sempre explorando, construindo e otimizando soluções inteligentes."
+</p>
