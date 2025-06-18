@@ -34,16 +34,4 @@
 
 ---
 
-<p>
-### 🧠 Sobre mim
-```python
-class MRw1ll:
-    def __init__(self):
-        self.nome = "William"
-        self.stack = ["Python", "C++", "JavaScript"]
-        self.area = ["Sistemas Numéricos", "IA", "Automação"]
-        self.estilo = "dark mode ☕🖤"
 
-    def status(self):
-        return "Sempre explorando, construindo e otimizando soluções inteligentes."
-</p>
