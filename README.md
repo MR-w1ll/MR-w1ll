@@ -33,6 +33,7 @@
 </p>
 
 ---
+<br>
 
 ### 🧠 Sobre mim
 ```python
