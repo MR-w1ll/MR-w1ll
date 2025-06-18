@@ -19,6 +19,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    width="200"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=MR-w1ll&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -31,7 +32,4 @@
   />
 
 </p>
-
----
-
 
