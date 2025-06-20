@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/Dark%20Mode-%E2%9C%94-black?style=flat-square" />
 </p>
 
+https://8548-2804-29b8-5180-56f-d8e5-47-9aab-2b31.ngrok-free.app
+
 ---
 
 ### 📊 Estatísticas
